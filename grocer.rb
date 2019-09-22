@@ -8,9 +8,9 @@ def consolidate_cart(cart)
     
     if
       
+  binding.pry
     else
       
     end
-  binding.pry
 end
 end
