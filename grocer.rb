@@ -41,4 +41,29 @@ end
 cart
 end
 
-def
+def checkout(array, coupons)
+  
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
